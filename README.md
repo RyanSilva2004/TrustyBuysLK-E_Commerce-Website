@@ -1,0 +1,2 @@
+# E-Commerce-Project-Website
+ This repository contains the code for an e-commerce website. The website is built using PHP for server-side scripting, MySQL for the database, JavaScript for client-side validation, and HTML for structuring the web pages. It includes both the client side, which is what the customers interact with, and the admin side, which is used by the website administrators for managing the website.
