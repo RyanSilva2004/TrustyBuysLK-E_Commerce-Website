@@ -38,11 +38,3 @@ Instructions for setting up the project locally.
 
 
 
-
-
-
-
-
-Guidelines for contributing to the project.
-
-Remember, a good README file should include information about the project, its features, the technologies used, setup instructions, and contribution guidelines. It serves as a guide for anyone who wants to understand, use, or contribute to the project. It’s the first file a new visitor will see, so make sure it’s informative and easy to understand. Hope this helps! 😊
